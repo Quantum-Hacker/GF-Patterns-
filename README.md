@@ -1,3 +1,4 @@
-#GF-Patterns
+## GF-Patterns
 
-Just this Automates your hunting and gives you $$$$
+*Just this automates your hunting and gives you $$$$*
+
